@@ -1,5 +1,5 @@
-# 💫 About Me:
-I am an experienced Ruby on Rails developer specializing in AI integration and full-stack web development. My skills include Ruby, Rails, React, Next.js, PostgreSQL, and Docker, with a proven ability to deliver robust, scalable applications.<br><br>I have led the development of AI-driven features, managed complete project lifecycles, and optimized system performance across various projects. My work encompasses creating intuitive front-end interfaces, building seamless API integrations, and deploying solutions on cloud platforms like AWS and Heroku.<br><br>Notable projects include an AI-powered trend analysis platform, a comprehensive SMSF management system, and a travel companion app with real-time geolocation. I emphasize user-centric design and technical excellence in all my endeavors.<br><br>If you're looking for a dedicated developer to bring your ideas to life, I'm open to new challenges and opportunities. Let's connect!
+# 💫 Senior Ruby on Rails Expert | DevOps Azure | Fullstack Developer:
+I am an experienced software engineer specializing in AI integration, AI automations and full-stack web development.<br><br>I have led the development of AI-driven features, managed complete project lifecycles, and optimized system performance across various projects. My work encompasses creating intuitive front-end interfaces, building seamless API integrations, and deploying solutions on cloud platforms like AWS and Heroku and a lot.
 
 
 ## 🌐 Socials:
